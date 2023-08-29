@@ -1,0 +1,15 @@
+p{
+    background-color:lightgreen;
+}
+
+hr{
+    width: 80%;
+    height: 10px;
+    border: none;
+    background-color:plum;
+}
+
+*{
+    text-decoration: underline;
+    background-color: aquamarine;
+}

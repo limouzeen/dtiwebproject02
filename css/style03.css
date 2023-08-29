@@ -1,0 +1,36 @@
+span{
+    background-color: yellow;
+    
+
+}
+.xx{
+    text-decoration: underline;
+
+}
+
+img{
+
+ width: 100px;
+    
+}
+
+#a1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid blue;
+}
+
+#a2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid red;
+}
+#yy{
+background-color: blue;
+}
+
+/* h1, strong, #a3{
+ background-color: blue;
+} */
